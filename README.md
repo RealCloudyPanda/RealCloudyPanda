@@ -1,14 +1,17 @@
 <div align="center">
-  <img src="assets/cloudy-banner.png" alt="Cloudy Panada, a sleepy brown panda surrounded by tiny AI and backend doodles" width="100%" />
+
+  <img src="./cloudy-banner.png" alt="Cloudy Panada — a sleepy brown panda with AI and backend doodles" width="100%" />
+
+  <p><em>part-time SWE, full-time panda. ☁️🐼</em></p>
+
+  <a href="https://x.com/RealCloudyPanda"><strong>🐾 say hi on X · @RealCloudyPanda</strong></a>
 </div>
 
-☁️ hey, i'm cloudy!
-a tiny panda with a big curiosity for artificial intelligence, backend systems, and making little ideas come to life. 🐾
-
-currently exploring...
-- 🤖 AI & agents — building curious little helpers
-- ⚙️ Backend engineering — APIs, databases, and the invisible magic behind apps
-- 🌱 Tiny experiments — trying things, breaking things, learning things
-🍵 powered by tea, curiosity, and an unreasonable number of open tabs.
-
-<sub>☁️ quietly building, loudly dreaming.</sub>
+🍵 a little about cloudy
+just a tiny panda curious about artificial intelligence, backend engineering, and making little ideas come to life.
+🌱 currently tinkering with...
+- 🤖 AI & agents — curious little helpers
+- ⚙️ Backend systems — APIs, databases, and the magic behind the scenes
+- 🧪 Tiny experiments — build, break, learn, repeat
+<sub>🍵 powered by tea, curiosity, and an unreasonable number of open tabs.</sub>
+<p align="center"><em>☁️ quietly building, loudly dreaming. 🐾</em></p>
