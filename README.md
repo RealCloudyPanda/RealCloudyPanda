@@ -14,6 +14,6 @@ Part-time SWE, full-time panda. Small panda, big curiosity.
 - [Twitter](https://x.com/RealCloudyPanda)
 - [LinkedIn](https://www.linkedin.com/in/realcloudypanda/)
 
-🍵 powered by tea, curiosity, and an unreasonable number of open tabs.
+🍵 Powered by tea, curiosity, and an unreasonable number of open tabs.
 
-*quietly building, loudly dreaming.*
+*Quietly building, loudly dreaming.*
