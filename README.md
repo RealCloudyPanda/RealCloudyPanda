@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Cloudy ☁️🐼
 
-<!--
-**RealCloudyPanda/RealCloudyPanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Part-time SWE, full-time panda. Small panda, big curiosity.
 
-Here are some ideas to get you started:
+### 🌱 currently tinkering with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤖 **AI & agents**: curious little helpers
+- ⚙️ **Backend systems**: APIs, databases, and the magic behind the scenes
+- 🧪 **Tiny experiments**: build, break, learn, repeat
+
+### 🐾 find me
+
+- [Devpost](https://devpost.com/RealCloudyPanda)
+- [X](https://x.com/RealCloudyPanda)
+- [LinkedIn](https://www.linkedin.com/in/realcloudypanda/)
+
+🍵 powered by tea, curiosity, and an unreasonable number of open tabs.
+
+*quietly building, loudly dreaming.*
