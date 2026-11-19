@@ -11,7 +11,6 @@ Part-time SWE, full-time panda. Small panda, big curiosity.
 ### 🐾 find me
 
 - [Devpost](https://devpost.com/RealCloudyPanda)
-- [Devfolio](https://devfolio.co/@RealCloudyPanda)
 - [Twitter](https://x.com/RealCloudyPanda)
 - [LinkedIn](https://www.linkedin.com/in/realcloudypanda/)
 
