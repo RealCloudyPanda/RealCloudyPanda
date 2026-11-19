@@ -2,12 +2,6 @@
 
 Part-time SWE, full-time panda. Small panda, big curiosity.
 
-### 🌱 currently tinkering with
-
-- 🤖 **AI & agents**: curious little helpers
-- ⚙️ **Backend systems**: APIs, databases, and the magic behind the scenes
-- 🧪 **Tiny experiments**: build, break, learn, repeat
-
 ### 🐾 find me
 
 - [Devpost](https://devpost.com/RealCloudyPanda)
