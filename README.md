@@ -1,4 +1,4 @@
-# ☁️🐼 Hello Pandas
+# Hello Pandas
 
 Part-time SWE, full-time panda. 
 Small panda, big curiosity.
@@ -9,3 +9,6 @@ Small panda, big curiosity.
 - [LinkedIn](https://www.linkedin.com/in/realcloudypanda/)
 
 *Quietly building, loudly dreaming.*
+
+Sincerely, 
+☁️🐼
