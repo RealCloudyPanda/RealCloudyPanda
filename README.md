@@ -1,7 +1,6 @@
 # Hello Pandas
 
-Part-time SWE, full-time panda. 
-Small panda, big curiosity.
+Part-time SWE, full-time panda. Small panda, big curiosity.
 
 ### 🐾 Where to find me
 - [Devpost](https://devpost.com/RealCloudyPanda)
