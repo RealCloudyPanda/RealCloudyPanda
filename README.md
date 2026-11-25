@@ -1,4 +1,4 @@
-# I follow everyone back. Drop a follow and help fund my questionable life goal of adopting a baby panda 🐼
+# Hello Pandas
 
 Part-time SWE, full-time panda. Small panda, big curiosity.
 
